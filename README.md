@@ -17,4 +17,7 @@ Ingeniero Civil Industrial con conocimientos en Gestión, Six Sigma, Formulació
 
 Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde 1980 hasta 2017. Presenta datos detallados sobre las ventas agrupadas por consola, región y género, permitiendo una visión clara de las tendencias y preferencias a lo largo del tiempo. Los usuarios pueden explorar cómo se han desarrollado las ventas en distintas consolas, comparar el desempeño de diferentes regiones y analizar la popularidad de géneros específicos. Esta herramienta proporciona una perspectiva integral sobre el mercado de videojuegos, facilitando la identificación de patrones clave y la toma de decisiones informadas.
 
+![Portafolio 1](https://github.com/user-attachments/assets/3a52f85a-b8f5-40e5-b035-a5a993c83a1e)
+
+
 
