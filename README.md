@@ -20,4 +20,6 @@ Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde
 ![Portafolio 1](https://github.com/user-attachments/assets/3a52f85a-b8f5-40e5-b035-a5a993c83a1e)
 
 
+# Proyecto 2: Proximamente
+
 
