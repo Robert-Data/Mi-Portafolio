@@ -19,6 +19,9 @@ Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde
 
 ![Portafolio 1](https://github.com/user-attachments/assets/3a52f85a-b8f5-40e5-b035-a5a993c83a1e)
 
+<iframe title="Proyecto 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGU1YjBlNWEtYTZhMy00MzdlLTk4ODAtNGZhMTNjNmU5NmU5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 # Proyecto 2: "Análisis Demográfico y de Salud Global: Distribución de la Población, Esperanza de Vida y Mortalidad Infantil por Regiones".
 
 a. En este proyecto, se presenta un análisis visual de la distribución de la población por área geográfica según continente, utilizando un mapa interactivo con burbujas proporcionales al tamaño de la población en cada región. Este enfoque permite visualizar de manera intuitiva la densidad y distribución de la población a nivel global, facilitando la identificación de patrones demográficos y áreas con alta concentración de habitantes. Las burbujas varían en tamaño según la cantidad de población, ofreciendo una representación clara y efectiva de los datos demográficos en un contexto geoespacial.
@@ -28,6 +31,7 @@ b. En la segunda parte del proyecto, se lleva a cabo un análisis exhaustivo de 
 ![2a](https://github.com/user-attachments/assets/89e1b021-2c08-4eb8-bb62-8837f6522b29)
 
 ![2b](https://github.com/user-attachments/assets/a83e4862-3330-4eae-8368-b4cc8e4b6131)
+
 
 # Proyecto 3: 
 
