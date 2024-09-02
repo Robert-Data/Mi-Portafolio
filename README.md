@@ -13,7 +13,7 @@ Ingeniero Civil Industrial con conocimientos en Gestión, Six Sigma, Formulació
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=Power-BI)
 
 
-# Proyecto 1: "Dashboard de Ventas de Videojuegos: Análisis de Tendencias por Consola, Región y Género (1980-2017)".
+# Proyecto 1: "Dashboard de Ventas de Videojuegos: Análisis de Tendencias por Consola, Región y Género (1980-2017)"
 
 Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde 1980 hasta 2017. Presenta datos detallados sobre las ventas agrupadas por consola, región y género, permitiendo una visión clara de las tendencias y preferencias a lo largo del tiempo. Los usuarios pueden explorar cómo se han desarrollado las ventas en distintas consolas, comparar el desempeño de diferentes regiones y analizar la popularidad de géneros específicos. Esta herramienta proporciona una perspectiva integral sobre el mercado de videojuegos, facilitando la identificación de patrones clave y la toma de decisiones informadas.
 
@@ -21,7 +21,7 @@ Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde
 
 # [Haz clic aquí para ver el Proyecto 1](https://app.powerbi.com/view?r=eyJrIjoiZGU1YjBlNWEtYTZhMy00MzdlLTk4ODAtNGZhMTNjNmU5NmU5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
 
-# Proyecto 2: "Análisis Demográfico y de Salud Global: Distribución de la Población, Esperanza de Vida y Mortalidad Infantil por Regiones".
+# Proyecto 2: "Análisis Demográfico y de Salud Global: Distribución de la Población, Esperanza de Vida y Mortalidad Infantil por Regiones"
 
 a. En este proyecto, se presenta un análisis visual de la distribución de la población por área geográfica según continente, utilizando un mapa interactivo con burbujas proporcionales al tamaño de la población en cada región. Este enfoque permite visualizar de manera intuitiva la densidad y distribución de la población a nivel global, facilitando la identificación de patrones demográficos y áreas con alta concentración de habitantes. Las burbujas varían en tamaño según la cantidad de población, ofreciendo una representación clara y efectiva de los datos demográficos en un contexto geoespacial.
 
@@ -33,7 +33,25 @@ b. En la segunda parte del proyecto, se lleva a cabo un análisis exhaustivo de 
 
 # [Haz clic aquí para ver el Proyecto 2](https://app.powerbi.com/view?r=eyJrIjoiMDIwNDBjOTgtZjU5YS00Y2MxLWFiODktZTFiYzE4N2Q4ZjI5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
 
-# Proyecto 3: 
+# Proyecto 3: "Análisis de Recursos Humanos y Evaluación de Desempeño de la Empresa SKU-DON"
+
+El Proyecto consiste en un reporte de Recursos Humanos para la empresa SKU-DON. Este reporte incluye datos generales de los empleados, como la cantidad total de empleados, agrupados por grupo de edad, grupo de sueldo y grupo de evaluación, además de presentar la cantidad de empleados por departamento y una tabla completa con detalles de cada empleado. En la siguiente hoja, se muestra un análisis detallado de los sueldos por empleado, agrupados por área. Finalmente, el reporte proporciona datos de evaluación por desempeño de los empleados.
+
+![3a](https://github.com/user-attachments/assets/12fdcc6d-e5ea-4a14-b05e-292039167c0c)
+
+![3b](https://github.com/user-attachments/assets/7b1ce752-77f5-4c83-8b36-1c8d78234462)
+
+![3c](https://github.com/user-attachments/assets/7c1b8253-a674-4e3a-9384-4b9dd02f6c41)
+
+# [Haz clic aquí para ver el Proyecto 3](https://app.powerbi.com/view?r=eyJrIjoiMGU2Y2ZjYWYtMDg4ZC00MmIyLTk5ZDgtMWRjNDEyZWYwZDM5IiwidCI6IjMyNGIw)
+
+# Proyecto 4:
+
+
+
+
+
+
 
 
 
