@@ -45,7 +45,21 @@ El Proyecto consiste en un reporte de Recursos Humanos para la empresa SKU-DON. 
 
 # [Haz clic aquí para ver el Proyecto 3](https://app.powerbi.com/view?r=eyJrIjoiMGU2Y2ZjYWYtMDg4ZC00MmIyLTk5ZDgtMWRjNDEyZWYwZDM5IiwidCI6IjMyNGIw)
 
-# Proyecto 4:
+# Proyecto 4: "Reporte de Datos Financieros de Empresa XYZ 2018 - 2019"
+
+Este reporte abarca un análisis detallado de los datos financieros de la empresa XYZ para los años 2018 y 2019. Incluye información sobre ingresos, gastos, utilidad y saldo, presentada en una tabla completa con todos los datos relevantes. Además, el reporte proporciona un desglose detallado por hoja, ofreciendo una visión clara y estructurada de las finanzas de la empresa durante el período analizado.
+
+![4a](https://github.com/user-attachments/assets/2463b1ae-db7d-4cf8-bdc1-7ec9ba2c8c9b)
+
+![4b](https://github.com/user-attachments/assets/54b140e6-67d4-4f84-87a2-5f8e417d79ad)
+
+![4c](https://github.com/user-attachments/assets/1080c81a-c297-488d-8029-8aab4947b858)
+
+[Haz clic aquí para ver el Proyecto 4](https://app.powerbi.com/view?r=eyJrIjoiMTVlYzhiMmMtNDc5NS00N2EzLTgzOTUtZGQ2YTU5YjkwYjkzIiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
+
+
+
+
 
 
 
