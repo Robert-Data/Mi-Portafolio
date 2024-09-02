@@ -19,8 +19,7 @@ Este dashboard ofrece un análisis exhaustivo de las ventas de videojuegos desde
 
 ![Portafolio 1](https://github.com/user-attachments/assets/3a52f85a-b8f5-40e5-b035-a5a993c83a1e)
 
-<iframe title="Proyecto 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGU1YjBlNWEtYTZhMy00MzdlLTk4ODAtNGZhMTNjNmU5NmU5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
-
+# [Haz clic aquí para ver el Proyecto 1](https://app.powerbi.com/view?r=eyJrIjoiZGU1YjBlNWEtYTZhMy00MzdlLTk4ODAtNGZhMTNjNmU5NmU5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
 
 # Proyecto 2: "Análisis Demográfico y de Salud Global: Distribución de la Población, Esperanza de Vida y Mortalidad Infantil por Regiones".
 
@@ -32,6 +31,7 @@ b. En la segunda parte del proyecto, se lleva a cabo un análisis exhaustivo de 
 
 ![2b](https://github.com/user-attachments/assets/a83e4862-3330-4eae-8368-b4cc8e4b6131)
 
+# [Haz clic aquí para ver el Proyecto 2](https://app.powerbi.com/view?r=eyJrIjoiMDIwNDBjOTgtZjU5YS00Y2MxLWFiODktZTFiYzE4N2Q4ZjI5IiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
 
 # Proyecto 3: 
 
