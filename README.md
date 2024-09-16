@@ -57,6 +57,18 @@ Este reporte abarca un análisis detallado de los datos financieros de la empres
 
 # [Haz clic aquí para ver el Proyecto 4](https://app.powerbi.com/view?r=eyJrIjoiMTVlYzhiMmMtNDc5NS00N2EzLTgzOTUtZGQ2YTU5YjkwYjkzIiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
 
+# Proyecto 5: "Medallas de los Juegos Olímpicos de Verano (1896-2024)"
+
+El análisis de las medallas de los Juegos Olímpicos de Verano (1896-2024) muestra la distribución de medallas totales por país, destacando las naciones con el mayor número de medallas. También examina las medallas por evento, revelando qué competiciones han sido más exitosas. El recuento anual de medallas ofrece una visión de cómo se ha distribuido el éxito a lo largo de los años, mientras que el análisis por participante destaca a los atletas con más medallas. Finalmente, la distribución total de medallas proporciona una visión global del rendimiento en los Juegos Olímpicos a lo largo del tiempo
+
+![5](https://github.com/user-attachments/assets/de28ad4b-2cf6-4aec-98fe-be2d6e502b14)
+
+# [Haz clic aquí para ver el Proyecto 5](https://app.powerbi.com/view?r=eyJrIjoiN2ZlOTA1ZjQtZWNhMC00NzQ5LWFjODktNjVhYzg3ZWVmMGIwIiwidCI6IjMyNGIwZDFlLTQ0YzgtNDkyMi1hMzVmLTc5ZTY3NjUzY2IwOCIsImMiOjR9)
+
+
+
+
+
 
 
 
